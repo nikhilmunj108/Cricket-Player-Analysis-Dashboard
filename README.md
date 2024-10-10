@@ -27,7 +27,7 @@ The data was scraped from the **ESPN Cricinfo** website using the **BrightData W
 - **Pandas**: For data manipulation and cleaning.
 - **NumPy**: For numeric operations.
 - **Matplotlib/Seaborn**: For any potential exploratory data analysis (EDA) before using Power BI.
--   
+  
 ## Power BI Features
 - **DAX Functions**:
    - `IF`: For creating conditional columns based on player stats.
